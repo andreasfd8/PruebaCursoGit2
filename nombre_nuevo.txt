@@ -1,3 +1,8 @@
 linea1
 linea2
+<<<<<<< HEAD
 linea3
+=======
+linea3
+linea4
+>>>>>>> agregando_lineas
